@@ -279,7 +279,7 @@ return 0
 }
 timer 5 { putlog "HELP STOPED" }
 puthlp "PRIVMSG $nick :$notd BoT Command LIsT."
-puthlp "PRIVMSG $nick :Walls Running With egg-drop v[lindex $version 0] Powered By [lgrnd] $vern"
+puthlp "PRIVMSG $nick :Walls Running With egg-drop v[lindex $version 0] $vern"
 puthlp "PRIVMSG $nick :14Query Commands..!"
 puthlp "PRIVMSG $nick :auth <password>          authenticate user"
 puthlp "PRIVMSG $nick :deauth <password>        deauthenticate user"
@@ -996,7 +996,7 @@ set ptxt "04Salah 04Ruangan!"
 } elseif {$pidx == 3} {
 set ptxt "04Akses 04Dibatalkan!"
 } elseif {$pidx == 4} {
-set ptxt "04Parting 04By 04egGo"
+set ptxt "04Parting 04By 04egG"
 } else {
 if {[info exists banner]} {
 set ptxt $banner
@@ -3346,7 +3346,7 @@ putsrv "KICK $chan $nick :$notc 4InvITE1 FRoM 4$mhost1 ON QuIT MSg [banmsg]"
 putsrv "KICK $chan $nick :$notc 4InvITE1 FRoM 4$mhost1 ON PaRT MSg [banmsg]"
 } elseif {$ex_flood($mhost) == 4} {
 if {![matchattr $cflag M]} {
-puthlp "KICK $chan $nick :[lgrnd] 4JoINPaRT1 FRoM 4$mhost1 LESS THaN4 [getuser $cflag XTRA "JP"]1 2nd [banmsg]"
+puthlp "KICK $chan $nick : 4JoINPaRT1 FRoM 4$mhost1 LESS THaN4 [getuser $cflag XTRA "JP"]1 2nd [banmsg]"
 } {
 if {![string match "*k*" [getchanmode $chan]]} {
 putserv "mode $chan -k+b 4J.o.I.N.P.a.R.T $bannick($nick)"
@@ -7173,27 +7173,27 @@ set output [bs_seenmask $chan $hand $args]
 if {$output == "No Matches!"} {putallbots "bs_botsearch 1 \{$target\} $nick $args"}
 if {[string match "I'm not on *" $output]} {putallbots "bs_botsearch 1 \{$target\} $nick $args"}
 regsub -all -- ~ $output "" output
-puthlp "$target :[lgrnd] $output"
+puthlp "$target : $output"
 return $bs(logqueries)
 }
 set data [bs_filt [string trimright [lindex $args 0] ?!.,]]
 if {[string tolower $nick] == [string tolower $data]} {
-puthlp "$target :[lgrnd] $nick, ngaca donk.. gak punya cermin yah!"
+puthlp "$target : $nick, ngaca donk.. gak punya cermin yah!"
 return $bs(logqueries)
 }
 if {[string tolower $data] == [string tolower $botnick] } {
-puthlp "$target :\001ACTION Yah g0eZ!\001"
+puthlp "$target :\001ACTION Yah go!\001"
 return $bs(logqueries)
 }
 if {[onchan $data $chan]} {
-puthlp "$target :[lgrnd] $nick, $data  dia ada disini gitu loh.."
+puthlp "$target : $nick, $data  dia ada disini gitu loh.."
 return $bs(logqueries)
 }
 set output [bs_output $chan $nick $data $no]
 if {$output == 0} {return 0}
 if {[lrange [split $output] 1 4] == "aku tidak melihat"} {putallbots "bs_botsearch 1 \{$target\} $nick $args"}
 regsub -all -- ~ $output "" output
-puthlp "$target :[lgrnd] $output"
+puthlp "$target : $output"
 return $bs(logqueries)
 }
 proc bs_output {chan nick data no} {
@@ -7970,7 +7970,7 @@ if {![isop $nick $chan] && [onchan $nick $chan]} {
 set greetmsg [getuser $cflag XTRA "GREET"]
 regsub %n $greetmsg $nick greetmsg
 regsub %c $greetmsg $chan greetmsg
-puthlp "NOTICE $nick :[lgrnd] $greetmsg"
+puthlp "NOTICE $nick : $greetmsg"
 }
 }
 proc deopprc {chan nick} {
@@ -8750,9 +8750,9 @@ if {[matchattr $cflag E]} { append mstatus "15\[4E15\]nFoRceBaN " }
 if {[matchattr $cflag C]} { append mstatus "15\[7C15\]YcLE14 [getuser $cflag XTRA "CYCLE"] MnT " }
 if {$mstatus != ""} {
 if {[getuser "config" XTRA "ADmIN"]!=""} {
-set mstatus "SeT MoDeS FoR 15\[14[string toupper $channel]15\] ${mstatus}[getuser "config" XTRA "ADmIN"] [lgrnd]"
+set mstatus "SeT MoDeS FoR 15\[14[string toupper $channel]15\] ${mstatus}[getuser "config" XTRA "ADmIN"] "
 } {
-set mstatus "SeT MoDeS FoR 15\[14[string toupper $channel]15\] ${mstatus}[lgrnd]"
+set mstatus "SeT MoDeS FoR 15\[14[string toupper $channel]15\] ${mstatus}"
 }
 }
 if {[string match "*c*" [getchanmode $channel]]} {
