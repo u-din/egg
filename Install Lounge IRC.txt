@@ -1,0 +1,19 @@
+OS. UBUNTU 20
+
+Login root
+1. Install Nodejs 16.*
+curl -s https://deb.nodesource.com/setup_16.x | sudo bash
+sudo apt install -y nodejs
+
+2. wget https://github.com/thelounge/thelounge-deb/releases/download/v4.4.1/thelounge_4.4.1_all.deb
+3. sudo apt install ./thelounge_*****.deb
+4. ketika error : N: Download is performed unsandboxed as root as file '/root/thelounge_4.4.1_all.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+5. sudo chown -Rv _apt:root /var/cache/apt/archives/partial/
+6. sudo systemctl status thelounge
+7. sudo -u thelounge thelounge add chat (username) >> set passwordnya
+8. edit pico /etc/thelounge/config.js
+
+$ sudo systemctl start thelounge
+$ sudo systemctl stop thelounge
+$ sudo systemctl restart thelounge
+$ sudo systemctl status thelounge
