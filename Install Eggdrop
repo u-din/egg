@@ -1,0 +1,7 @@
+1. sudo apt-get install tcl tcl-dev
+2. wget https://sisrv.net/files/eggdrop/eggdrop-1.9.5.tar.gz
+3. tar -zxvf eggdrop-1.9.5.tar.gz
+4. cd eggdrop-1.9.5
+5. ./configure
+6. make config
+7. make
