@@ -1,181 +1,1440 @@
-Abandon| Meninggalkan
-Abide| Mematuhi
-Able| Mampu
-Abolish| Menghapuskan
-Abound| Berlimpah
-About| Tentang
-Above| Di atas
-Abroad| di luar negeri
-Abrupt| Tiba-tiba
-Abscond| Melarikan diri
-Absolutely| benar-benar
-Absolute| mutlak
-Absurd| Konyol
-Abundant| Melimpah
-Academic| akademis
-Accept| menerima
-Accessory| Aksesori
-Access| akses
-Accident| Kecelakaan
-Acclaim| Pujian
-Accolade| Penghargaan
-Accommodate| Mengakomodasi
-Accompany| menemani
-According| menurut
-Account| Akun
-Accumulate| Mengumpulkan
-Accuracy| Keakuratan
-Accurate| akurat
-Achievement| pencapaian
-Achieve| Mencapai
-Achieve| mencapai
-Acknowledge| Mengakui
-Acquaint| Memperkenalkan
-Acquire| Memperoleh
-Across| Melintasi
-Action| tindakan
-Active| aktif
-Activity| aktivitas
-Actor| aktor
-Actual| sebenarnya
-Act| Bertindak
-Acute| Tajam
-Adage| Pepatah
-Adapt| Menyesuaikan
-Addicted| Kecanduan
-Address| Alamat
-Adept| Mahir
-Adhere| Melekat
-Adjective| Kata sifat
-Adjoin| Berbatasan
-Adventure| Petualangan
-Advice| Saran
-After| Setelah
-Against| Melawan
-Age| Usia
-Ago| Yang lalu
-Agree| Setuju
-Air| Udara
-Album| Album
-Alive| Hidup
-Allow| Memperbolehkan
-All| Semua
-Almost| Hampir
-Alone| Sendirian
-Along| Bersama
-Already| Sudah
-Also| Juga
-Always| Selalu
-Amateur| Pemula
-Amazing| Menakjubkan
-Among| Di antara
-Amount| Jumlah
-Ancient| Kuno
-Angry| Marah
-Animal| Hewan
-Another| Lainnya
-Answer| Jawaban
-Any| Apapun
-Apartment| Apartemen
-Apple| Apel
-Area| Daerah
-Arm| Lengan
-Around| Sekitar
-Arrive| Tiba
-Article| Artikel
-Artist| Seniman
-Art| Seni
-Ask| Bertanya
-Asleep| Tertidur
-Assist| Membantu
-Aunt| BibiAbandon| Meninggalkan
-Abide| Mematuhi
-Able| Mampu
-Abolish| Menghapuskan
-Abound| Berlimpah
-About| Tentang
-Above| Di atas
-Abroad| di luar negeri
-Abrupt| Tiba-tiba
-Abscond| Melarikan diri
-Absolutely| benar-benar
-Absolute| mutlak
-Absurd| Konyol
-Abundant| Melimpah
-Academic| akademis
-Accept| menerima
-Accessory| Aksesori
-Access| akses
-Accident| Kecelakaan
-Acclaim| Pujian
-Accolade| Penghargaan
-Accommodate| Mengakomodasi
-Accompany| menemani
-According| menurut
-Account| Akun
-Accumulate| Mengumpulkan
-Accuracy| Keakuratan
-Accurate| akurat
-Achievement| pencapaian
-Achieve| Mencapai
-Achieve| mencapai
-Acknowledge| Mengakui
-Acquaint| Memperkenalkan
-Acquire| Memperoleh
-Across| Melintasi
-Action| tindakan
-Active| aktif
-Activity| aktivitas
-Actor| aktor
-Actual| sebenarnya
-Act| Bertindak
-Acute| Tajam
-Adage| Pepatah
-Adapt| Menyesuaikan
-Addicted| Kecanduan
-Address| Alamat
-Adept| Mahir
-Adhere| Melekat
-Adjective| Kata sifat
-Adjoin| Berbatasan
-Adventure| Petualangan
-Advice| Saran
-After| Setelah
-Against| Melawan
-Age| Usia
-Ago| Yang lalu
-Agree| Setuju
-Air| Udara
-Album| Album
-Alive| Hidup
-Allow| Memperbolehkan
-All| Semua
-Almost| Hampir
-Alone| Sendirian
-Along| Bersama
-Already| Sudah
-Also| Juga
-Always| Selalu
-Amateur| Pemula
-Amazing| Menakjubkan
-Among| Di antara
-Amount| Jumlah
-Ancient| Kuno
-Angry| Marah
-Animal| Hewan
-Another| Lainnya
-Answer| Jawaban
-Any| Apapun
-Apartment| Apartemen
-Apple| Apel
-Area| Daerah
-Arm| Lengan
-Around| Sekitar
-Arrive| Tiba
-Article| Artikel
-Artist| Seniman
-Art| Seni
-Ask| Bertanya
-Asleep| Tertidur
-Assist| Membantu
-Aunt| Bibi
+Abandon|Meninggalkan
+Abide|Mematuhi
+Able|Mampu
+Abolish|Menghapuskan
+Abound|Berlimpah
+About|Tentang
+Above|Diatas
+Abroad|diluarnegeri
+Abrupt|Tiba-tiba
+Abscond|Melarikandiri
+Absolutely|benar-benar
+Absolute|mutlak
+Absurd|Konyol
+Abundant|Melimpah
+Academic|akademis
+Accept|menerima
+Accessory|Aksesori
+Access|akses
+Accident|Kecelakaan
+Acclaim|Pujian
+Accolade|Penghargaan
+Accommodate|Mengakomodasi
+Accompany|menemani
+According|menurut
+Account|Akun
+Accumulate|Mengumpulkan
+Accuracy|Keakuratan
+Accurate|akurat
+Achievement|pencapaian
+Achieve|Mencapai
+Achieve|mencapai
+Acknowledge|Mengakui
+Acquaint|Memperkenalkan
+Acquire|Memperoleh
+Across|Melintasi
+Action|tindakan
+Active|aktif
+Activity|aktivitas
+Actor|aktor
+Actual|sebenarnya
+Act|Bertindak
+Acute|Tajam
+Adage|Pepatah
+Adapt|Menyesuaikan
+Addicted|Kecanduan
+Address|Alamat
+Adept|Mahir
+Adhere|Melekat
+Adjective|Katasifat
+Adjoin|Berbatasan
+Adventure|Petualangan
+Advice|Saran
+After|Setelah
+Against|Melawan
+Age|Usia
+Ago|Yanglalu
+Agree|Setuju
+Air|Udara
+Album|Album
+Alive|Hidup
+Allow|Memperbolehkan
+All|Semua
+Almost|Hampir
+Alone|Sendirian
+Along|Bersama
+Already|Sudah
+Also|Juga
+Always|Selalu
+Amateur|Pemula
+Amazing|Menakjubkan
+Among|Diantara
+Amount|Jumlah
+Ancient|Kuno
+Angry|Marah
+Animal|Hewan
+Another|Lainnya
+Answer|Jawaban
+Any|Apapun
+Apartment|Apartemen
+Apple|Apel
+Area|Daerah
+Arm|Lengan
+Around|Sekitar
+Arrive|Tiba
+Article|Artikel
+Artist|Seniman
+Art|Seni
+Ask|Bertanya
+Asleep|Tertidur
+Assist|Membantu
+Aunt|BibiAbandon|Meninggalkan
+Abide|Mematuhi
+Able|Mampu
+Abolish|Menghapuskan
+Abound|Berlimpah
+About|Tentang
+Above|Diatas
+Abroad|diluarnegeri
+Abrupt|Tiba-tiba
+Abscond|Melarikandiri
+Absolutely|benar-benar
+Absolute|mutlak
+Absurd|Konyol
+Abundant|Melimpah
+Academic|akademis
+Accept|menerima
+Accessory|Aksesori
+Access|akses
+Accident|Kecelakaan
+Acclaim|Pujian
+Accolade|Penghargaan
+Accommodate|Mengakomodasi
+Accompany|menemani
+According|menurut
+Account|Akun
+Accumulate|Mengumpulkan
+Accuracy|Keakuratan
+Accurate|akurat
+Achievement|pencapaian
+Achieve|Mencapai
+Achieve|mencapai
+Acknowledge|Mengakui
+Acquaint|Memperkenalkan
+Acquire|Memperoleh
+Across|Melintasi
+Action|tindakan
+Active|aktif
+Activity|aktivitas
+Actor|aktor
+Actual|sebenarnya
+Act|Bertindak
+Acute|Tajam
+Adage|Pepatah
+Adapt|Menyesuaikan
+Addicted|Kecanduan
+Address|Alamat
+Adept|Mahir
+Adhere|Melekat
+Adjective|Katasifat
+Adjoin|Berbatasan
+Adventure|Petualangan
+Advice|Saran
+After|Setelah
+Against|Melawan
+Age|Usia
+Ago|Yanglalu
+Agree|Setuju
+Air|Udara
+Album|Album
+Alive|Hidup
+Allow|Memperbolehkan
+All|Semua
+Almost|Hampir
+Alone|Sendirian
+Along|Bersama
+Already|Sudah
+Also|Juga
+Always|Selalu
+Amateur|Pemula
+Amazing|Menakjubkan
+Among|Diantara
+Amount|Jumlah
+Ancient|Kuno
+Angry|Marah
+Animal|Hewan
+Another|Lainnya
+Answer|Jawaban
+Any|Apapun
+Apartment|Apartemen
+Apple|Apel
+Area|Daerah
+Arm|Lengan
+Around|Sekitar
+Arrive|Tiba
+Article|Artikel
+Artist|Seniman
+Art|Seni
+Ask|Bertanya
+Asleep|Tertidur
+Assist|Membantu
+Aunt|Bibi
+Baby|Bayi
+Back|Belakang/Kembali
+Bad|Buruk/Jelek
+Baffle|Membingungkan atau membuat frustrasi seseorang.
+Bag|Tas/Kantong
+Bail|Membebaskan seseorang dari tahanan.
+Bake|Memanggang
+Baleful|Penuh dengan kebencian atau niat jahat.
+Balky|Keras kepala atau tidak kooperatif.
+Ball|Bola
+Banal|Kurang memiliki orisinalitas atau kesegaran.
+Bandy|Berdebat
+Band|Band
+Bank|Bank
+Banter|Percakapan ringan.
+Bare|Kosong
+Bark|Gonggongan
+Bark|Kulit Kayu/Gonggongan
+Baroque|Berornamen
+Bar|Batang/Palang
+Base|Dasar/Basis
+Bash|Memukul dengan keras atau kuat.
+Basic|Dasar
+Basket|Keranjang
+Bask|Menikmati/merasa senang.
+Bath|Mandi
+Battery|Baterai
+Bat|Kelelawar
+Bat|Kelelawar/Pemukul Baseball
+Bay|Teluk
+Beach|Pantai
+Bean|Kacang
+Bear|Beruang/Menanggung
+Beat|Mengalahkan:Detak
+Beautiful|Cantik
+Because|Karena
+Become|Menjadi
+Bed|Tempat Tidur
+Beef|Daging Sapi
+Been|Telah:Sudah
+Beer|Bir
+Bee|Lebah
+Before|Sebelum
+Beguile|Menipu
+Being|Keberadaan/Eksistensi
+Belabor|Menerangkan
+Beleaguer|Mengganggu/mengepung.
+Believe|Percaya
+Below|Di bawah
+Benevolent|Baik hati dan penuh kasih sayang.
+Benign|Lembut dan baik.
+Bequeath|Wasiat.
+Berate|Mengkritik dengan keras.
+Bereft|Merasa sedih
+Beseech|Meminta dengan sangat
+Bespoke|Dibuat sesuai pesanan
+Bestial|Liar/brutal.
+Best|Terbaik
+Betoken|Indikasi sesuatu.
+Better|Lebih baik
+Between|Antara
+Bevy|Sejumlah besar/koleksi sesuatu.
+Be|Ada/Berada
+Be|Menjadi
+Bibulous|Gemar minum alkohol.
+Bifurcate|Membagi
+Big|Besar
+Bird|Burung
+Bite|Gigit
+Black|Hitam
+Blade|Pedang
+Blanket|Selimut
+Blue|Biru
+Boat|Perahu
+Body|Tubuh
+Book|Buku
+Bottle|Botol
+Box|Kotak
+Boy|Anak laki-laki
+Brain|Otak
+Break|Istirahat
+Bright|Terang
+Bring|Bawa
+Brother|Saudara laki-laki
+Brown|Coklat
+Brush|Sikat
+Build|Membangun
+Business|Bisnis
+Bus|Bis
+Cab|Taksi
+Cable|Kabel
+Cafe|Kafe
+Cake|Kue
+Call|Panggilan
+Camera|Kamera
+Camp|Kemah
+Can|Kaleng
+Canada|Kanada
+Candle|Lilin
+Candy|Permen
+Capital|Ibu kota
+Car|Mobil
+Card|Kartu
+Care|Peduli
+Career|Karier
+Carry|Membawa
+Case|Kasus
+Cash|Uang tunai
+Castle|Istana
+Cat|Kucing
+Catch|Menangkap
+Cause|Penyebab
+Celebrate|Merayakan
+Cell|Sel
+Center|Pusat
+Chair|Kursi
+Challenge|Tantangan
+Champion|Juara
+Change|Perubahan
+Character|Karakter
+Charity|Amal
+Chart|Grafik
+Check|Periksa
+Cheese|Keju
+Chef|Koki
+Chemistry|Kimia
+Chest|Dada
+Chicken|Ayam
+Child|Anak
+Chocolate|Cokelat
+Church|Gereja
+Circle|Lingkaran
+City|Kota
+Claim|Klaim
+Class|Kelas
+Clean|Bersih
+Clear|Jelas
+Clock|Jam dinding
+Close|Menutup
+Dad|Ayah
+Daily|Harian
+Dance|Menari
+Danger|Bahaya
+Dark|Gelap
+Date|Tanggal
+Day|Hari
+Dead|Mati
+Dear|Sayang
+Death|Kematian
+Decide|Memutuskan
+Deep|Dalam
+Deer|Rusa
+Degree|Gelar
+Delay|Menunda
+Delicious|Enak
+Dentist|Dokter gigi
+Desk|Meja
+Destroy|Menghancurkan
+Develop|Mengembangkan
+Diamond|Berlian
+Dictionary|Kamus
+Different|Berbeda
+Dinner|Makan malam
+Dirty|Kotor
+Discover|Menemukan
+Dish|Piring
+Distance|Jarak
+Doctor|Dokter
+Dog|Anjing
+Dollar|Dolar
+Door|Pintu
+Double|Ganda
+Down|Turun
+Draw|Menggambar
+Dream|Mimpi
+Dress|Gaun
+Drink|Minum
+Drive|Mengemudi
+Drop|Menjatuhkan
+Drum|Drum
+Duck|Bebek
+Due|Karena
+Dull|Membosankan
+Dust|Debu
+Duty|Tugas
+Dwarf|Kurcaci
+Dwell|Tinggal
+Dying|Sedang mati
+Dynamic|Dinamis
+Each|Setiap
+Eagle|Elang
+Early|Awal
+Earn|Mendapatkan
+Earth|Bumi
+Easy|Mudah
+Eat|Makan
+Edge|Tepi
+Education|Pendidikan
+Effect|Efek
+Egg|Telur
+Eight|Delapan
+Eighteen|Delapan belas
+Eighty|Delapan puluh
+Elastic|Elastis
+Elderly|Lansia
+Electric|Listrik
+Elephant|Gajah
+Eleven|Sebelas
+Email|Surel
+Emotion|Emosi
+Empty|Kosong
+Encourage|Mendorong
+End|Akhir
+Enemy|Musuh
+Enjoy|Menikmati
+Enough|Cukup
+Enter|Masuk
+Environment|Lingkungan
+Equal|Sama
+Equipment|Peralatan
+Escape|Melarikan diri
+Especially|Terutama
+Event|Acara
+Ever|Pernah
+Every|Setiap
+Everybody|Semua orang
+Everyone|Setiap orang
+Everything|Segalanya
+Everywhere|Di mana-mana
+Evidence|Bukti
+Exact|Tepat
+Examine|Memeriksa
+Example|Contoh
+Excellent|Luar biasa
+Exciting|Menarik
+Exercise|Olahraga
+Exit|Keluar
+Expect|Mengharapkan
+Experience|Pengalaman
+Face|Wajah
+Fact|Fakta
+Factory|Pabrik
+Fail|Gagal
+Fair|Adil
+Faith|Iman
+Fall|Jatuh
+False|Salah
+Fame|Ketenaran
+Family|Keluarga
+Famous|Terkenal
+Fan|Penggemar
+Fantastic|Fantastis
+Far|Jauh
+Farm|Pertanian
+Fashion|Mode
+Fast|Cepat
+Fat|Gemuk
+Father|Ayah
+Fault|Kesalahan
+Fear|Ketakutan
+Feature|Fitur
+February|Februari
+Fee|Biaya
+Feed|Memberi makan
+Feel|Merasa
+Female|Betina
+Festival|Festival
+Fever|Demam
+Few|Beberapa
+Field|Lapangan
+Fight|Bertarung
+Figure|Gambar
+Fill|Mengisi
+Film|Film
+Final|Akhir
+Finance|Keuangan
+Find|Menemukan
+Fine|Baik
+Finger|Jari
+Finish|Menyelesaikan
+Fire|Api
+Firm|Perusahaan
+Fish|Ikan
+Fit|Cocok
+Five|Lima
+Fix|Memperbaiki
+Flag|Bendera
+Flame|Nyala
+Flash|Kilat
+Gab|Menggigit
+Game|Permainan
+Gap|Celah
+Gas|Gas
+Gate|Gerbang
+Gather|Mengumpulkan
+Gear|Gigi
+General|Jenderal
+Generate|Menghasilkan
+Generation|Generasi
+Genius|Jenius
+Gentle|Lembut
+Gesture|Isyarat
+Get|Mendapatkan
+Giant|Raksasa
+Gift|Hadiah
+Girl|Gadis
+Give|Memberikan
+Glad|Senang
+Global|Global
+Goal|Tujuan
+God|Tuhan
+Gold|Emas
+Good|Baik
+Government|Pemerintah
+Grace|Anugerah
+Grade|Nilai
+Grain|Butiran
+Grand|Agung
+Grass|Rumput
+Great|Hebat
+Green|Hijau
+Grey|Abu-abu
+Group|Kelompok
+Grow|Tumbuh
+Guard|Penjaga
+Guess|Tebak
+Guide|Panduan
+Gun|Senjata
+Guy|Cowok
+Gym|Tempat kebugaran
+Gain|Mendapatkan
+Gallery|Galeri
+Gap|Jarak
+General|Umum
+Gesture|Gerakan tangan
+Giant|Raksasa
+Goal|Gol/Tujuan
+Grace|Kesenangan
+Grade|Kelas
+Hail|Salam
+Hair|Rambut
+Hall|Aula
+Hammer|Palu
+Hand|Tangan
+Handle|Pegangan
+Hang|Menggantung
+Happen|Terjadi
+Happy|Bahagia
+Harbor|Pelabuhan
+Hard|Sulit
+Harm|Bahaya
+Harvest|Panen
+Hat|Topi
+Have|Memiliki
+Head|Kepala
+Heal|Menyembuhkan
+Health|Kesehatan
+Hear|Mendengar
+Heart|Hati
+Heat|Panas
+Heaven|Surga
+Heavy|Berat
+Height|Tinggi
+Help|Membantu
+Here|Di sini
+Hide|Menyembunyikan
+High|Tinggi
+Hill|Bukit
+Hit|Pukulan
+Hold|Memegang
+Holiday|Liburan
+Home|Rumah
+Hope|Harapan
+Horse|Kuda
+Hospital|Rumah sakit
+Host|Tuan rumah
+Hot|Panas
+Hour|Jam
+House|Rumah
+How|Bagaimana
+Human|Manusia
+Humor|Humor
+Hundred|Seratus
+Hunt|Memburu
+Hurt|Sakit
+Husband|Suami
+Hybrid|Hibrida
+Hygiene|Kebersihan
+Hype|Sangat menantikan
+Idea|Ide
+Important|Penting
+Information|Informasi
+Improve|Meningkatkan
+Industry|Industri
+Inside|Di dalam
+Interesting|Menarik
+International|Internasional
+Island|Pulau
+Insect|Serangga
+Involve|Melibatkan
+Influence|Pengaruh
+Increase|Meningkatkan
+Identify|Mengidentifikasi
+Iron|Besi
+Idea|Ide
+Issue|Isu
+Instrument|Alat musik
+Initial|Awal
+Import|Impor
+Injury|Cedera
+Inspire|Menginspirasi
+Income|Pendapatan
+Invitation|Undangan
+Invent|Menemukan
+Incense|Menyan
+Insert|Memasukkan
+Inspect|Memeriksa
+Infrastructure|Infrastruktur
+Image|Gambar
+Invention|Penemuan
+Indicate|Menunjukkan
+Ignore|Mengabaikan
+Inherit|Mewarisi
+Introduction|Pengenalan
+Influence|Mempengaruhi
+Installation|Instalasi
+Introduce|Memperkenalkan
+Index|Indeks
+Inspection|Inspeksi
+Inclusion|Penyertaan
+Input|Masukan
+Insulation|Isolasi
+Infancy|Bayi
+Interaction|Interaksi
+Inspection|Pemeriksaan
+Invoice|Faktur
+Inflation|Inflasi
+Inconvenience|Ketidaknyamanan
+Incentive|Insentif
+Jab|Suntikan
+Jack|Dongkrak
+Jacket|Jaket
+Jade|Giok
+Jagged|Bergerigi
+Jail|Penjara
+Jam|Jam
+Janitor|Penjaga kebersihan
+Jar|Toples
+Jasmine|Melati
+Jazz|Musik jazz
+Jealousy|Rasa cemburu
+Jeans|Celana jeans
+Jelly|Selai jeli
+Jewelry|Perhiasan
+Jigsaw|Puzzle
+Jog|Berlari pelan-pelan
+Jogging|Berlari santai
+Joint|Sendi
+Journal|Jurnal
+Journey|Perjalanan
+Joy|Sukacita
+Judge|Hakim
+Juggle|Jongkok
+Juice|Jus
+Jumper|Baju rajut
+Jungle|Hutan belantara
+Junior|Junior
+Junk|Sampah
+Jury|Juri
+Justify|Membenarkan
+Justice|Keadilan
+Juvenile|Remaja
+Juxtapose|Menempatkan berdampingan
+Jive|Tarian jive
+Jockey|Penunggang kuda
+Jeopardy|Bahaya
+Jingle|Nada
+Jolt|Guncangan
+Jet|Jet
+Jargon|Istilah khusus
+Jiffy|Sekejap
+Jester|Badut
+Jeweler|Tukang emas
+Joyful|Penuh sukacita
+Jumbo|Besar sekali
+Jut|Menonjol
+Juggle|Menggiring
+Jumble|Kacau
+Jumpstart|Memulai dengan cepat
+Kayak |Perahu kano
+Keen |Tertarik
+Keenly |Dengan penuh semangat
+Keep |Menjaga
+Keeper |Penjaga
+Kernel |Inti
+Kernel |Butiran
+Kettle |Teko
+Kettle |Pemanas air
+Ketchup |Saus tomat
+Key |Kunci
+Kid |Anak kecil
+Kidney |Ginjal
+Kidnap |Menculik
+Kicker |Penendang
+Kicker |Peninju
+Kick |Tendangan
+Kilt |Rok lipat
+Kink |Kerut
+Kiosk |Kios
+Kiosk |Kios
+Kiosk |Kios
+Kisser |Penjilat
+Kiss |Ciuman
+Kit |Perlengkapan
+Kitty |Kucing kecil
+Kitten |Anak kucing
+Knack |Keahlian
+Knee |Lutut
+Kneecap |Pengikat lutut
+Knead |Menguleni
+Kneel |Berlutut
+Knit |Merajut
+Knit |Merajut
+Knob |Tombol
+Knot |Simpul
+Knots |Simpul
+Knight |Ksatria
+King |Raja
+Kelp |Rumput laut
+Kenel |Kandang anjing
+Keyboard |Papan ketik
+Kilogram |Kilogram
+Keg |Tong besar
+Kerchief |Sapu tangan
+Kind |Baik
+Kindly |Dengan baik
+Kill |Membunuh
+Kite |Layang-layang
+Kooky |Aneh
+Lab|Laboratorium
+Lace|Tali
+Lack|Kekurangan
+Ladder|Tangga
+Lady|Wanita
+Lake|Danau
+Lamb|Domba
+Lamp|Lampu
+Land|Tanah
+Language|Bahasa
+Lantern|Lentera
+Laptop|Komputer jinjing
+Large|Besar
+Last|Terakhir
+Late|Terlambat
+Laugh|Tertawa
+Launch|Meluncurkan
+Law|Hukum
+Lawn|Lapangan rumput
+Lay|Meletakkan
+Layer|Lapisan
+Lazy|Malas
+Lead|Memimpin
+Leaf|Daun
+Leak|Bocor
+Lean|Miring
+Learn|Belajar
+Least|Paling sedikit
+Leave|Meninggalkan
+Leg|Kaki
+Legal|Legal
+Lemon|Lemon
+Lens|Lensa
+Less|Lebih sedikit
+Lettuce|Selada
+Level|Tingkat
+Library|Perpustakaan
+Lid|Tutup
+Life|Hidup
+Lift|Angkat
+Light|Cahaya
+Like|Seperti
+Lime|Jeruk nipis
+Line|Garis
+Lip|Bibir
+List|Daftar
+Listen|Mendengarkan
+Little|Kecil
+Live|Hidup
+Load|Beban
+Macaroni|Makaroni
+Machine|Mesin
+Madam|Nyonya
+Magazine|Majalah
+Magic|Sihir
+Magnet|Magnet
+Mailbox|Kotak surat
+Main|Utama
+Make|Membuat
+Mango|Mangga
+Manicure|Manikur
+Mansion|Rumah besar
+Map|Peta
+Marble|Marmer
+March|Maret
+Mark|Tanda
+Market|Pasar
+Marriage|Pernikahan
+Mask|Masker
+Master|Tuan
+Match|Cocok
+Mathematics|Matematika
+Matinee|Pertunjukan siang
+Mattress|Kasur
+Mayonnaise|Mayones
+Meadow|Padang rumput
+Measure|Mengukur
+Medicine|Obat
+Meet|Bertemu
+Melody|Melodi
+Membership|Keanggotaan
+Menu|Menu
+Message|Pesan
+Metal|Logam
+Microwave|Microwave
+Midnight|Tengah malam
+Mile|Mil
+Milk|Susu
+Mind|Pikiran
+Miniature|Miniatur
+Minute|Menit
+Mirror|Cermin
+Miss|Rindu
+Mistake|Kesalahan
+Mix|Campuran
+Mobile|Bergerak
+Model|Model
+Modern|Modern
+Moment|Saat
+Money|Uang
+Nail|Kuku
+Name|Nama
+Napkin|Serbet
+Narrow|Sempit
+Nation|Negara
+Natural|Alami
+Nature|Alam
+Navigate|Menavigasi
+Near|Dekat
+Necklace|Kalung
+Needle|Jarum
+Negative|Negatif
+Neighbor|Tetangga
+Nephew|Keponakan (laki-laki)
+Nerve|Saraf
+Nest|Sarang
+Net|Jaring
+Network|Jaringan
+Newspaper|Koran
+Nice|Bagus
+Night|Malam
+Nine|Sembilan
+Noble|Mulia
+Noise|Suara
+Nominate|Mencalonkan
+Noon|Siang
+North|Utara
+Nose|Hidung
+Notebook|Buku catatan
+Nothing|Tidak ada
+Notice|Pemberitahuan
+Novel|Novel
+November|November
+Now|Sekarang
+Number|Nomor
+Nurse|Perawat
+Nut|Kacang
+Nutrient|Zat gizi
+Nylon|Nilon
+Niece|Keponakan (perempuan)
+Nectar|Nektar
+Noodle|Mie
+Nervous|Gugup
+Nursery|Taman kanak-kanak
+Negotiate|Bernegosiasi
+Nightclub|Klub malam
+Navigate|Menavigasi
+New|Baru
+Neck|Leher
+Nourish|Menyehatkan
+Oak|Ek
+Oasis|Oasis
+Oath|Sumpah
+Obedient|Patuh
+Object|Benda
+Observe|Mengamati
+Obtain|Mendapatkan
+Occur|Terjadi
+Ocean|Lautan
+October|Oktober
+Odd|Aneh
+Offend|Melukai perasaan
+Offer|Tawaran
+Office|Kantor
+Official|Resmi
+Often|Sering
+Oil|Minyak
+Old|Tua
+Olive|Zaitun
+Omelette|Telur dadar
+Onions|Bawang
+Open|Membuka
+Opinion|Pendapat
+Opposite|Berlawanan
+Orange|Jeruk
+Order|Pesan
+Organize|Mengatur
+Origin|Asal
+Other|Lainnya
+Out|Keluar
+Oven|Oven
+Over|Di atas
+Overcome|Mengatasi
+Overflow|Tumpah
+Overlook|Mengabaikan
+Owl|Burung hantu
+Own|Milik sendiri
+Ox|Lembu
+Oxygen|Oksigen
+Oyster|Tiram
+Oatmeal|Bubur oat
+Operator|Operator
+Optimize|Mengoptimalkan
+Orchestra|Orkestra
+Offense|Pelanggaran
+Outfit|Pakaian
+Output|Output
+Overdue|Terlambat
+Oval|Oval
+Overwhelm|Mengatasi
+Pace|Langkah
+Pack|Bungkus
+Pad|Alas
+Page|Halaman
+Pain|Sakit
+Paint|Lukis
+Pair|Pasangan
+Palace|Istana
+Palm|Telapak tangan
+Pan|Panci
+Panda|Panda
+Panic|Panik
+Paper|Kertas
+Parade|Parade
+Parent|Orangtua
+Park|Taman
+Parrot|Burung beo
+Party|Pesta
+Pass|Lulus
+Passion|Gairah
+Past|Lampau
+Pasta|Pasta
+Patch|Perbaiki
+Path|Jalan
+Patient|Pasien/Sabar
+Pattern|Pola
+Pause|Jeda
+Pay|Bayar
+Peace|Damai
+Peach|Persik
+Peak|Puncak
+Pearl|Mutiara
+Pen|Pulpen
+Pencil|Pensil
+Penguin|Penguin
+People|Orang
+Perfect|Sempurna
+Perform|Tampil
+Period|Periode
+Permanent|Permanen
+Petal|Kelopak
+Phone|Telepon
+Photo|Foto
+Piano|Piano
+Pick|Memilih
+Picture|Gambar
+Pie|Pai
+Pink|Merah muda
+Planet|Planet
+Play|Bermain
+Quack|Orang palsu
+Quad|Kuartet
+Quail|Gemetar
+Quaint|Aneh tapi menarik
+Quake|Gempa
+Quality|Kualitas
+Quarry|Tambang
+Quarter|Perempat
+Quartet|Kuartet
+Quash|Membatalkan
+Quaver|Getar
+Quay|Dermaga
+Queen|Ratu
+Quench|Memadamkan
+Quest|Pencarian
+Quick|Cepat
+Quicken|Mempercepat
+Quip|Komentar lucu
+Quirk|Sifat aneh
+Quiver|Bergetar
+Quilt|Selimut
+Quit|Berhenti
+Quiver|Sarang anak panah
+Quorum|Kuorum
+Quinoa|Quinoa
+Quote|Kutipan
+Quibble|Cakap
+Quandary|Keputusasaan
+Quill|Bulu
+Quaver|Gemetar
+Quirky|Unik
+Quiz|Kuis
+Quail|Puyuh
+Quantity|Jumlah
+Quip|Sindiran
+Quenching|Memadamkan
+Quotient|Keping
+Quibble|Debat kecil
+Quickie|Perkosaan cepat
+Queue|Antrian
+Quaff|Minum dengan cepat
+Quill|Pulpen
+Quaking|Goyangan
+Quiet|Tenang
+Quaker|Guncangan
+Quash|Menghapus
+Quell|Menghilangkan
+Quorum|Kuorum
+Quirk|Aneh
+Quibble|Memperdebatkan
+Rabble|Kerumunan
+Raccoon|Rakun
+Race|Balapan
+Radiate|Memancarkan
+Radical|Radikal
+Radio|Radio
+Rage|Kemarahan
+Rail|Rel
+Rainbow|Pelangi
+Raise|Menaikkan
+Random|Acak
+Range|Rentang
+Rank|Pangkat
+Rap|Rap
+Rapid|Cepat
+Rare|Langka
+Rate|Tingkat
+Ratify|Menyetujui
+Rational|Rasional
+Raven|Burung gagak
+Rave|Gila-gilaan
+Razor|Pisau cukur
+Reap|Menuai
+Rearrange|Mengatur ulang
+Reason|Alasan
+Rebel|Pemberontak
+Recent|Baru-baru ini
+Reception|Resepsi
+Recipe|Resep
+Recognize|Mengenali
+Recycle|Mendaur ulang
+Red|Merah
+Reduce|Mengurangi
+Refer|Merujuk
+Reflect|Merefleksikan
+Refresh|Segarkan
+Refuse|Menolak
+Regard|Memperhatikan
+Regret|Menyesal
+Regular|Biasa
+Rejoice|Bersuka cita
+Release|Melepaskan
+Reliable|Dapat diandalkan
+Remark|Komentar
+Remember|Mengingat
+Remote|Jauh
+Remove|Menghapus
+Repair|Memperbaiki
+Repeat|Mengulang
+Report|Melaporkan
+Sacrament|Sakramen
+Safari|Safari
+Safety|Keselamatan
+Sage|Bijak
+Sail|Berlayar
+Saint|Orang suci
+Salad|Salad
+Salary|Gaji
+Sale|Penjualan
+Salmon|Salmon
+Salt|Garam
+Sample|Sampel
+Sand|Pasir
+Sandwich|Roti lapis
+Satellite|Satelit
+Satisfy|Memuaskan
+Save|Menyimpan
+Scale|Skala
+Scan|Memindai
+Scar|Luka
+Scatter|Mencerai-beraikan
+Scene|Adegan
+Schedule|Jadwal
+Scholar|Sarjana
+School|Sekolah
+Science|Ilmu pengetahuan
+Score|Skor
+Scrabble|Scrabble
+Scream|Berteriak
+Screen|Layar
+Script|Naskah
+Sculpture|Patung
+Sea|Laut
+Search|Mencari
+Season|Musim
+Secure|Aman
+Seed|Benih
+Seek|Mencari
+Select|Memilih
+Self|Diri sendiri
+Sell|Menjual
+Semantics|Semantik
+Seminar|Seminar
+Send|Mengirim
+Sensation|Sensasi
+Sense|Indra
+Sentence|Kalimat
+Separate|Memisahkan
+Serene|Tenang
+Service|Layanan
+Tab|Tabung
+Table|Meja
+Tackle|Menangani
+Tail|Ekor
+Take|Mengambil
+Tale|Kisah
+Talent|Bakat
+Talk|Berbicara
+Tall|Tinggi
+Tank|Tangki
+Tap|Keran
+Target|Sasaran
+Task|Tugas
+Taste|Rasa
+Taxi|Taksi
+Tea|Teh
+Teach|Mengajar
+Team|Tim
+Tear|Air mata
+Technical|Teknis
+Technology|Teknologi
+Teenager|Remaja
+Tell|Mengatakan
+Temperature|Suhu
+Tennis|Tenis
+Tent|Tenda
+Term|Istilah
+Test|Uji coba
+Text|Teks
+Thank|Terima kasih
+Theater|Teater
+Theme|Tema
+Theory|Teori
+Thick|Tebal
+Thin|Tipis
+Think|Berpikir
+Third|Ketiga
+Thread|Benang
+Threat|Ancaman
+Thrive|Berkembang
+Through|Melalui
+Throw|Melempar
+Thumb|Ibu jari
+Thunder|Guntur
+Ticket|Tiket
+Tide|Pasang surut
+Tie|Ikatan
+Tiger|Harimau
+Time|Waktu
+Tip|Tips
+Ugly|Jelek
+Umbrella|Payung
+Uncle|Paman
+Under|Di bawah
+Understand|Memahami
+Unfortunate|Malang
+Unicorn|Kuda bertanduk
+Uniform|Seragam
+Unique|Unik
+Unit|Satuan
+University|Universitas
+Unusual|Tidak biasa
+Update|Memperbarui
+Uphold|Menegakkan
+Upper|Atas
+Upset|Terganggu
+Urgent|Mendesak
+Use|Menggunakan
+Useful|Berguna
+User|Pengguna
+Usually|Biasanya
+Utensil|Alat makan
+Utter|Mengucapkan
+Uncover|Membuka
+Uncle|Paman
+Unite|Bersatu
+Upright|Tegak
+Unwind|Santai
+Usage|Penggunaan
+Usual|Biasa
+Utility|Utilitas
+Ultimately|Pada akhirnya
+Upward|Ke atas
+Unity|Persatuan
+Utmost|Terbesar
+Upgrade|Peningkatan
+Urban|Perkotaan
+Undergo|Menjalani
+Upcoming|Mendatang
+Unload|Membongkar
+Urge|Dorongan
+Unemployed|Pengangguran
+Uncover|Membuka
+Undo|Membatalkan
+Unplug|Mencabut
+Unfold|Membuka
+Undo|Membatalkan
+Unify|Mempersatukan
+Unseen|Tak terlihat
+Usher|Pemandu
+Vacant|Kosong
+Vacation|Liburan
+Vacuum|Hampa
+Valid|Sah
+Valley|Lembah
+Value|Nilai
+Vanish|Menghilang
+Variable|Variabel
+Variation|Variasi
+Variety|Ragam
+Various|Berbagai
+Vase|Vas bunga
+Vast|Luas
+Vault|Gudang
+Vehicle|Kendaraan
+Veil|Cadar
+Vendor|Penjual
+Vent|Sirkulasi
+Verbal|Lisan
+Verify|Memverifikasi
+Version|Versi
+Vertical|Vertikal
+Vest|Rompi
+Veteran|Veteran
+Veto|Menolak
+Vicious|Kejam
+Victory|Kemenangan
+Video|Video
+View|Melihat
+Village|Desa
+Violate|Melanggar
+Violence|Kekerasan
+Violin|Biola
+Virtual|Virtual
+Virus|Virus
+Visible|Terlihat
+Vision|Visi
+Visit|Mengunjungi
+Visual|Visual
+Vital|Penting
+Vitamin|Vitamin
+Vocabulary|Kosakata
+Voice|Suara
+Volume|Volume
+Volunteer|Sukarelawan
+Vote|Memilih
+Voyage|Perjalanan
+Vulnerable|Rentan
+Vulcanize|Membuat vulkanisasi
+Vulture|Burung nasar
+Wage|Upah
+Wait|Menunggu
+Wake|Bangun
+Walk|Berjalan
+Wall|Dinding
+Wallet|Dompet
+Wander|Mengembara
+Want|Ingin
+War|Perang
+Wardrobe|Lemari pakaian
+Warm|Hangat
+Warn|Memperingatkan
+Warrior|Pejuang
+Wash|Mencuci
+Waste|Limbah
+Watch|Menonton
+Water|Air
+Wave|Gelombang
+Weak|Lemah
+Wealth|Kekayaan
+Wear|Mengenakan
+Weather|Cuaca
+Weave|Menyusun
+Web|Jaringan
+Wedding|Pernikahan
+Weep|Menangis
+Weight|Berat
+Welcome|Selamat datang
+Well|Baik
+West|Barat
+Wet|Basah
+Whale|Ikan paus
+What|Apa
+Wheel|Roda
+When|Kapan
+Where|Di mana
+Whether|Apakah
+Which|Yang mana
+While|Sementara
+Whisper|Bisikan
+White|Putih
+Whole|Seluruh
+Wide|Lebar
+Wife|Istri
+Wild|Liar
+Will|Akan
+Win|Menang
+Wind|Angin
+Winter|Musim dingin
+Wise|Bijaksana
+X-ray|Foto rontgen
+Xylophone|Kslofon
+Xerox|Menyalin
+Xenon|Ksenon
+Xerophyte|Xerofit
+Xenophobia|Ksenofobia
+Xanthan|Zantan
+Xebec|Kapal layar
+Xerox machine|Mesin fotokopi
+X-ray machine|Mesin rontgen
+Xylophone player|Pemain kslofon
+Xenon gas|Gas ksenon
+Xerophytic plants|Tanaman xerofitik
+Xenophobic behavior|Perilaku ksenofobia
+Xanthan gum|Gom zantan
+Xebec sailboat|Perahu layar xebec
+X-ray technician|Teknisi rontgen
+Xylophone music|Musik kslofon
+Xenon headlights|Lampu depan ksenon
+Xerophyte adaptations|Adaptasi tanaman xerofitik
+Yacht|Kapal Pesiar
+Yawn|Menguap
+Yearn|Rindu
+Yellow|Kuning
+Yes|Ya
+Yesterday|Kemarin
+Yet|Masih
+Yield|Menghasilkan
+Yoga|Yoga
+Yolk|Kuning telur
+Young|Muda
+Youth|Pemuda
+Yummy|Enak
+Yachtman|Nahkoda kapal pesiar
+Yearbook|Buku tahunan
+Yard|Halaman
+Yankee|Orang Amerika
+Yelp|Mengaduh
+Yoghurt|Yogurt
+Yearning|Kerinduan
+Yonder|Di sana
+Yoke|Ikat
+Yell|Berteriak
+Yarn|Benang wol
+Yummylicious|Sangat lezat
+Youngster|Remaja
+Yeast|Ragi
+Yesteryear|Zaman dahulu
+Yielding|Mudah menyerah
+Youngest|Paling muda
+Yeoman|Petani
+Yachtswoman|Perempuan yang ahli kapal pesiar
+Youthful|Penuh semangat
+Yearlong|Sepanjang tahun
+Yearly|Tahunan
+Yo-yo|Mainan putar-putar
+Yondering|Mengembara ke tempat yang jauh
+Yelling|Teriakan
+Yearnful|Penuh kerinduan
+Yelper|Penyebab keluhan
+Yardstick|Tongkat ukur
+Yikes|Wah
+Yowling|Mengeong
+Youngish|Agak muda
+Yuck|Ih
+Yachtswomen|Wanita yang ahli kapal pesiar
+Yearningly|Dengan kerinduan
+Yellingly|Dengan teriakan
+Youngling|Anak muda
+Yesterevening|Malam sebelumnya
+Zany|Lucu/aneh
+Zap|Menyambar
+Zebra|Zebra
+Zenith|Puncak
+Zeppelin|Balon udara
+Zest|Semangat
+Zigzag|Berkelok-kelok
+Zinc|Seng
+Zip|Mengepak
+Zodiac|Zodiak
+Zombie|Zombie
+Zoom|Meluncur cepat
+Zephyr|Angin sepoi-sepoi
+Zestful|Penuh semangat
+Zero|Nol
+Zestfully|Dengan semangat
+Zigzagging|Membelok-belok
+Zestiness|Kehidupan/semangat
+Zircon|Zirkon
+Zen|Ketenangan
+Zapper|Pemusnah
+Zillion|Banyak sekali
+Zonked|Kelelahan
+Zeal|Semangat
+Zipper|Resleting
+Zenithal|Berkaitan dengan puncak
+Zephyrlike|Seperti angin sepoi-sepoi
+Zoology|Zoologi
+Zestinesses|Keberanian/semangat
+Zincking|Menyepuh dengan seng
+Zappy|Enerjik
+Zibeline|Bulu binatang
+Zinky|Berbau seng
+Zinkify|Melapisi dengan seng
+Zappier|Lebih berenergi
+Zonary|Berhubungan dengan zona
+Zenlike|Seperti zen
+Zingaro|Sinting
+Zoogeography|Zoogeografi
+Zoftig|Gemuk/berisi
+Zabaglione|Makanan penutup
+Zinky|Berbau seng
+Zonally|Menurut zona
+Zaddik|Pemimpin agama
+Zoophytology|Zoofitologi
+Zucchini|Labu zucchini
+Zaptiah|Mata uang Libya
+Zealot|Fanatik
+Zestily|Dengan penuh semangat
+Zeroing|Menetapkan pada nol
