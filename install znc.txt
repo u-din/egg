@@ -1,0 +1,14 @@
+sudo apt-get update
+sudo apt-get install libssl-dev libperl-dev pkg-config build-essential
+sudo apt-get install cmake
+
+adduser znc (bikin user di vps)
+su - znc
+
+wget http://znc.in/releases/znc-latest.tar.gz
+tar -zxvf znc-latest.tar.gz
+cd znc-1.9.0/
+./configure
+make
+make install
+/usr/local/bin/znc --makeconf
