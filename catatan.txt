@@ -1,0 +1,5 @@
+HTTP Authorisation ** Requires: base64 package from tcllib to be installed. ** Debian: apt-get install tcllib
+
+HTTPS ** Requires: TLS package to be installed. ** Debian: apt-get install tcl-tls
+
+Gzip Decompression: ** Requires: Trf package to be installed. ** Debian: apt-get install tcl-trf
