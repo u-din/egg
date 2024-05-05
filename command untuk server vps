@@ -1,0 +1,17 @@
+untuk memeriksa cache memory
+free -m
+
+ketiga membersihkan pagecache, dentries dan inodes:
+echo 1 > /proc/sys/vm/drop_caches
+echo 2 > /proc/sys/vm/drop_caches
+echo 3 > /proc/sys/vm/drop_caches
+menjalankan perintah sync; echo 3 > /proc/sys/vm/drop_caches setiap 1 jam
+
+Mengurangi Serangan DDoS
+rute -n |grep alamatip
+
+Cara Memeriksa IP Mana yang Terhubung ke Server Anda
+netstat -ntu|awk '{print $5}'|cut -d: -f1 -s|sort|uniq -c|sort -nk1 -r
+  
+mengembalikan uptime dan beban server Anda.
+grep prosesor /proc/cpuinfo | wc -l
