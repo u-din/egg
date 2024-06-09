@@ -1,0 +1,10 @@
+sudo apt update && sudo apt upgrade -y
+
+sudo apt-get install build-essential pkg-config gdb libssl-dev libpcre2-dev libargon2-dev libsodium-dev libc-ares-dev libcurl4-openssl-dev
+
+wget https://www.unrealircd.org/downloads/unrealircd-latest.tar.gz
+tar xfz unrealircd-latest.tar.gz
+./Config
+semua enter saja
+make
+make install
